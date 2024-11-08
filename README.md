@@ -11,7 +11,11 @@ Hello and welcome to my GitHub page! I'm Sheriff Olalekan Mudasir, an aspiring S
 *   🌍  Visit my website [here](https://ambitious-sea-0ea73ee10.5.azurestaticapps.net/)
 *   🧠  I'm learning Data Science, Machine learning and Deep Learning
 *   🤝  I'm open to collaborating on AI Agents Apps
-*   ⚡  My initial training at the university is in Architecture and still have great interest in it. My interest in Architecture is in Computational Design and emerging technologies in design<a href="https://www.x.com/sheriff_mudasir" target="_blank" rel="noreferrer"><img
+*   ⚡  My initial training at the university is in Architecture and still have great interest in it. My interest in Architecture is in Computational Design and emerging technologies in design
+<a href="https://app.daily.dev/sheriffmudasir"><img src="https://api.daily.dev/devcards/v2/HbtbxB6YWMlw9TgCWHkzV.png?r=bfr&type=default" width="356" alt="Sheriff Olalekan Olalekan Mudasir's Dev Card"/></a>
+
+
+<a href="https://www.x.com/sheriff_mudasir" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/sheriff_mudasir?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a> Skills 
 <p align="left">
